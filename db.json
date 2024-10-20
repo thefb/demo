@@ -2,6 +2,11 @@
   "responsible": [
     { 
       "id": "anyService", 
-      "responsible": "Team B" }
+      "responsible": "Team B"
+    },
+    { 
+      "id": "anotherService", 
+      "responsible": "Team C"
+    },
   ]
 }
