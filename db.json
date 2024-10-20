@@ -1,5 +1,5 @@
 {
   "responsible": [
-    { "id": "anyService", "reponsible": "Team A" },
-  ],
+    { "id": "anyService", "responsible": "Team A" }
+  ]
 }
